@@ -8,3 +8,5 @@
 # [Connect Four](https://sionehavili2.github.io/connectFour/)
 * Play a game of Connect Four
 * ![picture3](/connectFour.png)
+
+# [Speed Game](https://github.com/jsantos-weber/Speed)
