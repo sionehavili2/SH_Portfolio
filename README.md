@@ -1,4 +1,4 @@
-#  Portfolio
+# Sione Havili's Professional Portfolio
 * Welcome to my Portfolio! Please Take a look at the readme file to easily navigate all projects. Click on title of project to view the site. 
 
 # [Speed Game](https://github.com/jsantos-weber/Speed)
