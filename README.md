@@ -39,6 +39,8 @@ This was a group project that combined the efforts of 3 developers to build a we
   
 # [Connect Four](https://sionehavili2.github.io/connectFour/)
 * Play a game of Connect Four
+* ![picture3](/connectFour.png)
+  
 * ### Features 
 - Simple Navigation
 - Player Turn Display
@@ -51,7 +53,6 @@ This was a group project that combined the efforts of 3 developers to build a we
 
 ### Challenges
 - Understanding and designing for all logical winning combinations.
-* ![picture3](/connectFour.png)
 
   
 
