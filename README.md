@@ -1,3 +1,6 @@
+#  [Greeting]
+* Welcome to my Portfolio! Please Take a look at the readme file to easily navigate all projects. Click on title of project to view the site. 
+
 # [Speed Game](https://github.com/jsantos-weber/Speed)
 This was a group project that combined the efforts of 3 developers to build a web-based version of the popular card game Speed. Although we were not able to finish the project during the course of the semester, we were able to build most of the functionality using sockets. 
 ![Speed](https://github.com/jsantos-weber/JuanSantos-3750-Portfolio/blob/main/img/Speed.png)
